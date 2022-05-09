@@ -199,6 +199,7 @@ display: block ke thua chieu ngang the chua no
 #slider  .text-description {
     font-weight: bolder;
     font-size: 15px;
+    text-shadow: 0 0 5px black;
 }
 
 #content {
@@ -332,8 +333,12 @@ display: block ke thua chieu ngang the chua no
     display: inline-block;
     margin-bottom: 16px;
     border-style: unset;
+    -webkit-appearance: none;
    
     
+}
+.contact-submit-btn{
+    font-size: 16px;
 }
 .pull-right{
     float: right;
@@ -466,6 +471,7 @@ button.buy-tickets:hover {
     padding: 11px;
     border: 1px solid #ccc;
     width: 100%;
+    font-size: 16px;
     
 }
 .map-section img{

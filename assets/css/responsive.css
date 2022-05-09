@@ -1,4 +1,4 @@
-@media (max-width: 1023px) {
+@media (max-width: 63.9375em) {
     .btn {
         padding:15px 16px;
     }
@@ -21,7 +21,7 @@
         display: inline-block;
     }
 }
-@media (max-width: 740px) {
+@media (max-width: 46.1875em) {
     #header {
         overflow: hidden;
     }
